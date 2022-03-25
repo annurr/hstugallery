@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 
 Name: AndroidManifest.xml
-SHA-256-Digest: yGcNRRl1gv+td19fO+nN6qRejfeSjx70CDAEZxR3idw=
+SHA-256-Digest: M3uqNMT1IuNneynXG1DigrMZ1DYjBgHANaYo5oJwcN0=
 
 Name: CHANGES.txt
 SHA-256-Digest: 4f2TEKz/f0VOJD3ntDvwotWGd1YztGWOH2qwItnDUOs=
@@ -93,925 +93,338 @@ SHA-256-Digest: Pkoiumyp092ZlBIsbtqobgczrbbbT46/PHNmhoPtzno=
 Name: assets/user_custom_script.js
 SHA-256-Digest: 590ieQKWRdazX5zOBBm/6Ir+4wRp4dUJtGXII9BGx+4=
 
-Name: assets/zip_18312274/.git/COMMIT_EDITMSG
-SHA-256-Digest: +VDicfiCXknjFHvM0eH/a/oePiWRt+CtxozdlsFBgMU=
-
-Name: assets/zip_18312274/.git/FETCH_HEAD
-SHA-256-Digest: fxkyF2rxPmluzpTCIKcyUq0zPvoBsDlknzbSzi3L32U=
-
-Name: assets/zip_18312274/.git/HEAD
-SHA-256-Digest: KNJb+Cr0wOK3L1CVmyvrhZ4+YLljCl6MYD2tTdsrboA=
-
-Name: assets/zip_18312274/.git/config
-SHA-256-Digest: LWxAfpP+a/RQbOx8eaQ5m6AmC0UOjVAiekA23G0HlPM=
-
-Name: assets/zip_18312274/.git/description
-SHA-256-Digest: hatsFj1DoX6pz3eIMIvKFGbxsKjRzJLibpv2PaQGKu4=
-
-Name: assets/zip_18312274/.git/hooks/applypatch-msg.sample
-SHA-256-Digest: AiNJeguLAzqlijpSG4YphpOGz3qw4vEBlj0yiqYhk/c=
-
-Name: assets/zip_18312274/.git/hooks/commit-msg.sample
-SHA-256-Digest: H3TV6SkpebVz69WXQdRsuT/zkazdCD00C5Q3B1PZJDc=
-
-Name: assets/zip_18312274/.git/hooks/fsmonitor-watchman.sample
-SHA-256-Digest: 88AijY6CfxxSYKxZ/dksPUJcRuVHEe9xPFpUrgpNsrQ=
-
-Name: assets/zip_18312274/.git/hooks/post-update.sample
-SHA-256-Digest: gXZa8trvMjBh3LxeYfwWSBy3SzusmtihdLGGUjWG9sU=
-
-Name: assets/zip_18312274/.git/hooks/pre-applypatch.sample
-SHA-256-Digest: 4VxbRp6j4KaVvqbyyCvPjmKCEHSTnd2Ft34AB/8WVHU=
-
-Name: assets/zip_18312274/.git/hooks/pre-commit.sample
-SHA-256-Digest: +a99lesSMezy66l3D+36jUeXoSsC1yQOmNVoIBJRJEo=
-
-Name: assets/zip_18312274/.git/hooks/pre-merge-commit.sample
-SHA-256-Digest: 04JacDN5QOu9ClwHKYThMkWSDN+ImL0iXI0npt/Jy1M=
-
-Name: assets/zip_18312274/.git/hooks/pre-push.sample
-SHA-256-Digest: 7M6cfgTT9d2ditqBdT3R1UmpY0smdwBCtY3aACF9CGo=
-
-Name: assets/zip_18312274/.git/hooks/pre-rebase.sample
-SHA-256-Digest: T+vOhneQBSM4B29OZsxH77FIedGAl9HWHIJhhZ6qp7M=
-
-Name: assets/zip_18312274/.git/hooks/pre-receive.sample
-SHA-256-Digest: pMPSuce7P9jRRBwxvU7nGlldZrRPz0ndsxAlIyAWmYk=
-
-Name: assets/zip_18312274/.git/hooks/prepare-commit-msg.sample
-SHA-256-Digest: 6d3KpBif3dJe2X/Ix4nsp7bKFjkLI5KuMnbwyOGqRhk=
-
-Name: assets/zip_18312274/.git/hooks/push-to-checkout.sample
-SHA-256-Digest: pT0HQXmLKHxt16+mSu5HPzBeZdP0lGO7nXQI7DsSv18=
-
-Name: assets/zip_18312274/.git/hooks/update.sample
-SHA-256-Digest: jV8vqD4QPPCLV+qmdSHfkZT0XL28s32lKtWGCXoU0QY=
-
-Name: assets/zip_18312274/.git/index
-SHA-256-Digest: Q79pTsvUdDSJGQwsMLGJYxteXJQ7Q48rnh6HF5WLaY8=
-
-Name: assets/zip_18312274/.git/info/exclude
-SHA-256-Digest: ZnH+g7egfIky7okWTR8nk7IxgFjri5jcXAbuClo7DsE=
-
-Name: assets/zip_18312274/.git/logs/HEAD
-SHA-256-Digest: XiyUprmkBDriory6JkWCFoLySP0nb1DRnBcMyOkuBBU=
-
-Name: assets/zip_18312274/.git/logs/refs/heads/main
-SHA-256-Digest: XiyUprmkBDriory6JkWCFoLySP0nb1DRnBcMyOkuBBU=
-
-Name: assets/zip_18312274/.git/logs/refs/remotes/origin/HEAD
-SHA-256-Digest: uP+Dgg5G/hS+eCi88ZJei+gp8XOBa89ylI0kjgt660o=
-
-Name: assets/zip_18312274/.git/logs/refs/remotes/origin/main
-SHA-256-Digest: 4+dtYSI/xgtzdLFNrN7S9CNc8LCGtlQ/5OoTwKkLFH8=
-
-Name: assets/zip_18312274/.git/objects/02/3791e1e30c2e62a2ba67116ac58d
- ffbc29e2f6
-SHA-256-Digest: W2MGmA5zXL/f8hfFl+1pyvEJO6wFIwWLfgaT2sqEkA4=
-
-Name: assets/zip_18312274/.git/objects/03/bf846a1222cc088c66e416f875b1
- e9d8093844
-SHA-256-Digest: JEyd92rEV3faKlLMM7QFQV0AdNIu7uXN3Dpt3y7ipmE=
-
-Name: assets/zip_18312274/.git/objects/05/c4e53c07da276a83b6fc98f24ad2
- 3d19b636ee
-SHA-256-Digest: 2xFBzcZxAz1FqG5vL1hJlEsc4rCAQfMU/zPBGIscnTU=
-
-Name: assets/zip_18312274/.git/objects/08/ef37639e01a005dcc8947ab2bdec
- df670a1a61
-SHA-256-Digest: mtqsv2Vvb5D8MXYJQYAaZSJDLzOgDVQNd4namiE+cnU=
-
-Name: assets/zip_18312274/.git/objects/10/30c421c70f3c13be9f11ac52bf81
- d35f633923
-SHA-256-Digest: 4gb5jyfmuPwMgYe/0oUSqjE4p8alcWliz0Fdux7Bsy0=
-
-Name: assets/zip_18312274/.git/objects/12/07a1713c5e0789d0facbc7307c32
- 51d83e60d4
-SHA-256-Digest: 8Zk5KO4t82HDCUtbqRqHEgZTlXmsHAyOMQ8xTxhnpcc=
-
-Name: assets/zip_18312274/.git/objects/12/5f8f13aa5c37acbb7ee7f24b5283
- b384804fd0
-SHA-256-Digest: cv8Rz5N/kItPTJDLWFnbuG9lbk2wUOeSKgCA/d7+wY0=
-
-Name: assets/zip_18312274/.git/objects/14/72dec059b31e556f29fba41de840
- dc4add9c4f
-SHA-256-Digest: 8tRBSHUX22TswgMa8fdLxXV4+TEohBheqHfSUJw2PKU=
-
-Name: assets/zip_18312274/.git/objects/15/7ff672374ba62a317df097848cfe
- 8ca5c73405
-SHA-256-Digest: RoeiqixiZHzPAOelvZY96MWBdxAUVmQJAzTTvuhGfK4=
-
-Name: assets/zip_18312274/.git/objects/16/649a6a2d5239159f4b78a44f2fd7
- 6931927731
-SHA-256-Digest: O8VLiegBlpH6Svjd2U9SGG7HZ/hn/TsnrRHf2PZ/iso=
-
-Name: assets/zip_18312274/.git/objects/18/ed80743357cd419342f0a51c5bf6
- 8c2c109535
-SHA-256-Digest: atuTYdRelilj4vpxAZsyU1v7BsL4R86qznUTndzhIRo=
-
-Name: assets/zip_18312274/.git/objects/1c/6e6d95da854b820cbc4ecb0c8e1f
- 54238de383
-SHA-256-Digest: Cg6RM95+WX/227RJJLLdoMmjxGUrCD0WSO5T+HNmM2o=
-
-Name: assets/zip_18312274/.git/objects/1c/a67dbe4ec17b79be77c5696abb0f
- b23c90af90
-SHA-256-Digest: M5N6HUrR6BHvJ2JglEkGwcfV3K4lDvwYWt2xcRBB1/k=
-
-Name: assets/zip_18312274/.git/objects/1e/0621c84fb0355798a783354cf4e9
- b651eb9b30
-SHA-256-Digest: 8rvutbimMKLFstn/Xlg+OzeHsH3gwK9UFazzk1ZDOV4=
-
-Name: assets/zip_18312274/.git/objects/22/8f23bc5cdfde7a6726cd0e4f8580
- 48e76a14d6
-SHA-256-Digest: Tf5tap0v8n30WkpBDY28FtlJwNTpN1sBUVloFBu4CgI=
-
-Name: assets/zip_18312274/.git/objects/24/2741cc33edf695eeb438d699618b
- 413ca9c290
-SHA-256-Digest: /SujJT7Xrr7lIxXSEqAablPbbIu1oDcqQWzY+qUg2T8=
-
-Name: assets/zip_18312274/.git/objects/25/22840848c4d0ef10cccce88da512
- b179318930
-SHA-256-Digest: F2CYHFe65I/QUcU8KcvytCWIvBTXmO774i/9xWZWyS0=
-
-Name: assets/zip_18312274/.git/objects/26/962e42315b13b3f039dbb32e9d49
- 40e8195471
-SHA-256-Digest: Xg5OjnEvAkBgfc8zaiARYpElRAClxDn2ZdVqs8j9qAc=
-
-Name: assets/zip_18312274/.git/objects/29/7e6ea6b6931e65f409ae6842d71c
- 87d449a26b
-SHA-256-Digest: jd7RZq0gyiLidK30UJXnc0Hcsb8/AbnGBKnvsJDp1uo=
-
-Name: assets/zip_18312274/.git/objects/33/e0b85de2cd866226b54671d815b5
- 59b1d8e2ed
-SHA-256-Digest: bsAEnDBuvt6ld6IGmp9uhvzjNN8HaOlwA7hHYJsCKkg=
-
-Name: assets/zip_18312274/.git/objects/34/f4c95bec2eb6324f1e03aa0ca2de
- 868db958df
-SHA-256-Digest: kX0cIb9hBF51WOQA1Z0jGgUGFHRLsgvJBPHV1FMIqcw=
-
-Name: assets/zip_18312274/.git/objects/35/b5d6786c225d7a14346bd16ba69a
- 45e8106266
-SHA-256-Digest: 0MYacBQN3gWfRgKwcSnhO9ZscVm1szPG5TqaIEFEl5w=
-
-Name: assets/zip_18312274/.git/objects/35/c702631e861018a468496073cb8b
- 4ea5b297ff
-SHA-256-Digest: 5z8PfnLbxIavl40oDAIbc16EOeChv/LKIIScRMOKsrk=
-
-Name: assets/zip_18312274/.git/objects/36/e68815806e96202d8a882272339b
- 1d109c0cdf
-SHA-256-Digest: 3UkfcMMoQWxOnLPxb/FT8YnQ0p+kfdhPiYa9XQyTCek=
-
-Name: assets/zip_18312274/.git/objects/38/3f3d50585a67f04d33ddd5ac0d13
- 49272a713a
-SHA-256-Digest: v2vz62uIW7oMnj1aM5LSlQaLPMiKoWz4/fKtCviP+jU=
-
-Name: assets/zip_18312274/.git/objects/38/beb810f024c92eb065f4286c4ff8
- 0be2ddbcc5
-SHA-256-Digest: 8jXBAWcgv67iG31jKKn20xY8YG4bnoo38BizE/q5fG4=
-
-Name: assets/zip_18312274/.git/objects/39/c26aaa2c111b7d20aed7e01f41c2
- c8eb757fbe
-SHA-256-Digest: fVKmg6+KFMv86MurulA66hUi8XtLuU9nSFBNRd3R8sw=
-
-Name: assets/zip_18312274/.git/objects/3a/71e7d8e1d64733a608d8a7c02a52
- b201e9ccd7
-SHA-256-Digest: Lh98bNi6xZaNA4nhUmvISCRQhr25hqMrDLS6QdpjWJ0=
-
-Name: assets/zip_18312274/.git/objects/3a/75230fcbbb929f0566b49b584292
- 519f181103
-SHA-256-Digest: Ye+zrQAwQyq87iSt0S/GYmd2wDj10GaSnWPk5/FzhP4=
-
-Name: assets/zip_18312274/.git/objects/3b/babb0652688fdeb0fca81fe80e18
- 5d41db9339
-SHA-256-Digest: 0lrA/x/3KRKzoG5P6Aaed0WJhSmI7h9R0qrVq5mOKvA=
-
-Name: assets/zip_18312274/.git/objects/3c/6130f99c114179b0335de5348213
- c945a60c7c
-SHA-256-Digest: KfZYKKg8OVR0tcgrhRDASKY4+TTwVwHpDNlM7KTGRo8=
-
-Name: assets/zip_18312274/.git/objects/3d/a8cba2a928d30d5ae0b99829e112
- 5dd7cdcfbc
-SHA-256-Digest: UL+Ic4JPBy1NZqQeFngXu8ZxWmuKsbv5gbm51vc97uI=
-
-Name: assets/zip_18312274/.git/objects/3e/ccbac69a060a79480d497edde29f
- db443e4c53
-SHA-256-Digest: 0ch/ugoxl2CyCQZ9i/GntUPFGIZxSnbpxd1Rit/RijI=
-
-Name: assets/zip_18312274/.git/objects/42/7bd6b521badde8b7775ed170406f
- c1b46cafc0
-SHA-256-Digest: mya4e9kfK8LU1+uzkVwIn9fVQTp2g+qx5ygEvijcfoo=
-
-Name: assets/zip_18312274/.git/objects/47/8c3b4449f777ebbcb7b262f1d85c
- 7e85d31001
-SHA-256-Digest: spVeYM64YC9N34ymnflLwphIpU+IjB0Rl2c5BOj/7nA=
-
-Name: assets/zip_18312274/.git/objects/48/2520f958e8acaa8565f5faf628ea
- bd59e89f0a
-SHA-256-Digest: z8DbgtGjMO4+VDYm3Wo3ypZrTrk40dfClQ5VvT7w6Tw=
-
-Name: assets/zip_18312274/.git/objects/48/63b22798f6076de6327c800cce49
- 4140f09fad
-SHA-256-Digest: Dqoj4b6njv3NmbJMt9NG+lifvKn8mLqUZS8EHfgDgWk=
-
-Name: assets/zip_18312274/.git/objects/49/b739de86f520f2ec3cc92c25e50a
- c7a476f2aa
-SHA-256-Digest: ajJ06IS3RcQ+mY/gyOi017ebkevCHuDv5ZhMfgPZLPI=
-
-Name: assets/zip_18312274/.git/objects/55/054478edb2249f8bc2a4397ce0a2
- 942181ecf6
-SHA-256-Digest: dXU4Xk3we/nqPTL4iJ5ya59S8K/e3Ezy6tOJV/95ruA=
-
-Name: assets/zip_18312274/.git/objects/55/954191387b39391e20456c9c955e
- 548e2a0c76
-SHA-256-Digest: MP8h313SL1Qz2A4r7oxGNeDQPKitfqf98h6PTjmOsOo=
-
-Name: assets/zip_18312274/.git/objects/56/d6a8973bb46d2a9186c7d5a2efda
- 206846a2e4
-SHA-256-Digest: CrcJhPMFr4OX3imb+NiKoLFjD5rgJM2YZVCMWRNO+ic=
-
-Name: assets/zip_18312274/.git/objects/57/730b33fa3919dbccf46ff15838f6
- e6a07919f5
-SHA-256-Digest: e60JRuSQvi12L60qBxoJ7QEGYQjDa+E3TBE1qCqh3Ao=
-
-Name: assets/zip_18312274/.git/objects/57/912ef6babeb80719eaf5fe0fdb9a
- 5d689f5525
-SHA-256-Digest: EN8eNLKhqd3r6wlB1K03i6hh1IWMlrIWe0IrNXE3q40=
-
-Name: assets/zip_18312274/.git/objects/58/ecebbbb1a682caf20034d9b09fef
- 8981e29bd6
-SHA-256-Digest: /H78cge+/DllMJui5qy5r/17Oiuphvx7+UBlbKhBmkI=
-
-Name: assets/zip_18312274/.git/objects/5a/0f2db2cb21cdffc42c4d4dde00bb
- a4af3a5e21
-SHA-256-Digest: obL65sV6EKt4mYFqliTceMB/tCQd3u9FaWv4/+9qF0k=
-
-Name: assets/zip_18312274/.git/objects/62/25657c066b16c7244b3dac9612c9
- 1860c25d24
-SHA-256-Digest: 9hYlBGbBBZypfOd+4yyo3tCawZQOvXiTqw1OCywM/uw=
-
-Name: assets/zip_18312274/.git/objects/65/2c3eb66939748b8e734fabe6cee7
- 033edcaa10
-SHA-256-Digest: KAkd6HscC2zQ7uEjrjexDiIUTswDRlmNzj1s7PqAmDc=
-
-Name: assets/zip_18312274/.git/objects/66/923fe6a1ee9b53b7136997ac0774
- 8c1874b033
-SHA-256-Digest: xAPDYzdQHdFtFPMWxOkLgN2zTfyY/XvZLyx2wTjHioo=
-
-Name: assets/zip_18312274/.git/objects/6b/cd85c81352bb771657a4b1e61263
- 71a08a0609
-SHA-256-Digest: 7XjJf92/ldQYSe5ZCaw5Kai6wJLDs6bRklCioI9x4ac=
-
-Name: assets/zip_18312274/.git/objects/70/14af3f0acdf189f8479b36f0a29d
- c234c7aed1
-SHA-256-Digest: dEg0PGej9XYCvEm/Tkxb32kPvdjUjQUnt4CRCNm27PM=
-
-Name: assets/zip_18312274/.git/objects/71/177efc6ae33cf961b2fcf2119532
- f0d7276a6a
-SHA-256-Digest: MHSIvAiZL5ff+D8sPutCcwpgQCHE0RPu+lSxWhFlUsM=
-
-Name: assets/zip_18312274/.git/objects/71/27436c66e8b47840c592160ea42a
- 3b6228e4cc
-SHA-256-Digest: YvH0Lq4S9fTQ0yg9QFfs4VBeB6YspveawBwNRmCQGGA=
-
-Name: assets/zip_18312274/.git/objects/72/c7cfb43ce9387d576a4e86ec59e4
- 3537b5c30f
-SHA-256-Digest: dFruAmQwIXSV9+ykjPvVIjgEnkchE5yxpATlnN5keCU=
-
-Name: assets/zip_18312274/.git/objects/74/9f9c52276287ac11aa6bfc7a4b7b
- 8d8721dd38
-SHA-256-Digest: xTXSwmn/VjSzW+tz1/oLcLioFGE+SZ0AX8OE6PYdIaY=
-
-Name: assets/zip_18312274/.git/objects/7c/a671cbef1d50fecff8a7e3cfae51
- ca60b7bac9
-SHA-256-Digest: 1AF0jhMSagz1dUZddQD4kgTA2q83AZ4zQTBe9+yVbrk=
-
-Name: assets/zip_18312274/.git/objects/7c/b9191f7d7f6faec53cbed2b61e58
- 27d763b5a1
-SHA-256-Digest: 7VoViJWDrHn4ILpwAoxCYVxby8sePPsyDrNMwAjCIco=
-
-Name: assets/zip_18312274/.git/objects/7c/d3bc250ebd5f7d8992889858a7cf
- b6d161d258
-SHA-256-Digest: HypR226dj26bItRTetssuUtGPgHr0SL9DA0xuLSuQTI=
-
-Name: assets/zip_18312274/.git/objects/7d/78e32a669415c9d55382bd64063b
- edfe743f17
-SHA-256-Digest: IPTzhkQr8C7gdIcNvLph/ogZIXv3xzg1hnBy+R9TkdM=
-
-Name: assets/zip_18312274/.git/objects/7f/2e70a4fe2d2a94c70f059e0f35b1
- b7820db8a3
-SHA-256-Digest: 2GBXPKqHS3wwLmgD0Uq/A3hZyQNsZJNfB7UWIyJxgrY=
-
-Name: assets/zip_18312274/.git/objects/81/2621e641ea15893a0b222517b640
- ceaa8dacff
-SHA-256-Digest: AqNK6tr0op3zJAT4xM2Gv8ph9e8+n3WYLmyEpraF5JU=
-
-Name: assets/zip_18312274/.git/objects/83/5a3d6bcb23f7038cf12479a1ba73
- 6a4f7891ab
-SHA-256-Digest: qw/iF1KqchZhBeq+Icv1gvOkXlmxvDDVzWm5IYXqEVA=
-
-Name: assets/zip_18312274/.git/objects/84/76ba4250ea2f67c44c70ca56cfaf
- f7a7bb8bfa
-SHA-256-Digest: wxoWnhVE+PDeRieeFG2wF2gi31J4oe2vS5Z//flwRrI=
-
-Name: assets/zip_18312274/.git/objects/86/dc4bface73c4c3fc07d3ea2741e2
- ce05ad82a3
-SHA-256-Digest: jnTbWjAY4q0p8M+sdq9q2qNIxuR9pzaoxq+2060mZaU=
-
-Name: assets/zip_18312274/.git/objects/86/e1f6e01580a6349f9b0c3ccd1818
- 422261d437
-SHA-256-Digest: V4P4GiUTKnb49fsn/Cshi6A+GzDP5GaFOe+Ipsrchr4=
-
-Name: assets/zip_18312274/.git/objects/87/7ff63db35102f06b1eaff143700b
- 5f59421471
-SHA-256-Digest: 1eCb0n5aRu97yODJ5g7RJR2kNkQpJLFeeUZ7VSgpvHc=
-
-Name: assets/zip_18312274/.git/objects/87/c7859f54109d5330da4fea04dfc4
- 283be4bde8
-SHA-256-Digest: e6KK9+DHDC3/wdFXIT6ocPuboZfEky1y86nBHpkkKtw=
-
-Name: assets/zip_18312274/.git/objects/88/7155bf708a96ba611fbb7985d6b8
- 5cd4747f7f
-SHA-256-Digest: PrtJQx++07slwUp9XVVYzrrakwr3TC5RZ1UPLpFQqQo=
-
-Name: assets/zip_18312274/.git/objects/8a/878fe2a1a77432ea208fb4b702c5
- bd8a8394c4
-SHA-256-Digest: I0eJZV8lHD69C6Tqkkw8ttzv27kEls7zwNavrwagJ88=
-
-Name: assets/zip_18312274/.git/objects/8d/3e5d0ea3b8ec35cfb8ee01359888
- 74fb161c32
-SHA-256-Digest: d7iBBw3lKkZra+GYdluvPUBNY20x7BMhVSnkF3iLk/I=
-
-Name: assets/zip_18312274/.git/objects/8e/62d84d8f12e47c2e1cfcc75b98ef
- 72be84b0a4
-SHA-256-Digest: GUXOFk2tuY6h9DNVuEDgjlDLmg4zbNSvmY02QhJQnf0=
-
-Name: assets/zip_18312274/.git/objects/8e/c49c744672d5ddf6529922d509db
- 28b6ad3f4c
-SHA-256-Digest: BfyyJDCrqYn0QNNFhIoNok3+NB1HUGUrMojGGI1wM78=
-
-Name: assets/zip_18312274/.git/objects/8f/c583d56953a8d9f992f687d7612a
- f638ac367e
-SHA-256-Digest: 3C1GrNJ8kb4iEPFnR+IZ4YcuTYT7NxXVKrJ8vtMJ8Xs=
-
-Name: assets/zip_18312274/.git/objects/94/9af71adedb3cd5d83392e40d352e
- d8b00f0758
-SHA-256-Digest: C6iBy9+guXkEGlp6jpWjlyWoqgyx8IzSeyKLD6aesbM=
-
-Name: assets/zip_18312274/.git/objects/99/466447c637e6e051ee9c523f27dc
- 92cff27e63
-SHA-256-Digest: NTUyjGwMvV+uyWcuhu29d+CNIxeZb+dGi7ao97WjcLw=
-
-Name: assets/zip_18312274/.git/objects/99/9463e7d17545b62c76ceefe96eae
- 4d52f77f16
-SHA-256-Digest: RDU8jD82Hl5OGEjpgPAKcxKj6afCbiuTC1DQC2B9Hgg=
-
-Name: assets/zip_18312274/.git/objects/a0/ba1336d664da5b3d7da0698a2477
- 373b2105c2
-SHA-256-Digest: vUzA04VLPegCZrF73yTGou7NX3D7/lfhG6rIl39nNHE=
-
-Name: assets/zip_18312274/.git/objects/a1/8da6ae01bad82437558f9e0e7b02
- e4d2372611
-SHA-256-Digest: MIWhbD4/ZctzxCuAr8ChdOM4Ou/BPC8qX6zmgxDvq1I=
-
-Name: assets/zip_18312274/.git/objects/a3/4696a935aad135782d0d9cc8fa0f
- 3dd35e3df6
-SHA-256-Digest: uQAHry0D/VzmlLivspOmhqvY7U5OvMGTeLcitB/iWW8=
-
-Name: assets/zip_18312274/.git/objects/a3/9195fbf65c16b4b8bd115aa0232e
- d4234730fe
-SHA-256-Digest: EammCnZCNOJqOlW4GwpZW1kqaokSMDXBznu9AnzQ994=
-
-Name: assets/zip_18312274/.git/objects/a3/aab0e5eef0bd7634e9421685ff8d
- ca9b71638b
-SHA-256-Digest: qy0Odi88ktjVBwuses+XN8h0pnNYJ+7kJ5KckIy+y7U=
-
-Name: assets/zip_18312274/.git/objects/ac/f1d3aa567f22b0bc42775425d6e6
- 55e0d4e03d
-SHA-256-Digest: 0Jcl0w9l/e0gIxk676I7rKC/vIIPggXrw5vsBIqKSnM=
-
-Name: assets/zip_18312274/.git/objects/ad/d9409d88fd9535d6593e9043bd81
- 400e9a1894
-SHA-256-Digest: riFp1F3snQ2niLsKal641I78y2r37oU1GNdje9srGf4=
-
-Name: assets/zip_18312274/.git/objects/b1/5e3e88e01ee127533303d51db7c5
- 95d8c15c83
-SHA-256-Digest: 9cViyLqsPAYqvji3cG6TII18Af1fOV2+uRedg6tDiwA=
-
-Name: assets/zip_18312274/.git/objects/b1/6609a2c0e323e48e0f4c726d8c55
- f03d86aa8b
-SHA-256-Digest: 1MwxVBY3Zsjgcq6RIzioBfelVhwvBMDc0RCovcekRJk=
-
-Name: assets/zip_18312274/.git/objects/b5/b17d73552a45b2d7e746cf421bab
- cb6bcf9047
-SHA-256-Digest: 50uZZWzj9BARee4KIwP5ASW7ElzVwvJKdcuyMnTMN9A=
-
-Name: assets/zip_18312274/.git/objects/b7/9ab6fc0484fdc99c45b3c0c94ad2
- 0ed9b60644
-SHA-256-Digest: KwpAH8PIcRjSTrPIGPXP26/++yeaOZOiFf4YWSsRrPI=
-
-Name: assets/zip_18312274/.git/objects/bb/6583fe077118d031d1c612220872
- 480dbb715b
-SHA-256-Digest: TJ7gdhfb304EOJ4HcdnsdZRnY9xcoibhW4OvFXt+Sr4=
-
-Name: assets/zip_18312274/.git/objects/bd/4f7f7db50c83d5e169197807e4d2
- d8922fa6d0
-SHA-256-Digest: 8Bxu0hCCUd1sLzh26899tnz/Bknb3Lbz07rG5uhApg0=
-
-Name: assets/zip_18312274/.git/objects/be/373be0928057481fa40d571edfeb
- 9badfb0fc2
-SHA-256-Digest: OKsMB9XElh9tJdzZY6+xCjJ+XPHNTifXapNJ5hGfWZs=
-
-Name: assets/zip_18312274/.git/objects/be/f02e3cab51aaf42b87331f31af84
- 84f87339d8
-SHA-256-Digest: aKC7aoMvD+zns6oBrTc18tRg20ON679rZ/EyDXMdG6c=
-
-Name: assets/zip_18312274/.git/objects/c3/8bd1557774fb862daa826583aabc
- b9b4c9d0ef
-SHA-256-Digest: 4P7BVOxSwGvIbGzR3v++UhHJHEeHc8nUgQR4YrWDImE=
-
-Name: assets/zip_18312274/.git/objects/c4/4bb809c5adce16e3e75d6266098b
- 7a4fb15804
-SHA-256-Digest: XwzcwOuX+sfjz8KdTCsov3ksupc3fuRftvF8qEiB1dI=
-
-Name: assets/zip_18312274/.git/objects/c5/09cf53fb0e2764fce3a838480d58
- d6262dc477
-SHA-256-Digest: IUhIlr8w7d62VHNoFyTnEpDhbrIXeipEspRDfq/dS04=
-
-Name: assets/zip_18312274/.git/objects/c5/6d642a7e9208b360b8c72f0a72e5
- 35ad73e9c9
-SHA-256-Digest: LMcMOziLKmDpIZfM5hM13GIjH3kCvkN/V04m4LTe+vE=
-
-Name: assets/zip_18312274/.git/objects/c5/d33d6cf0ee29c356dd2d31c9e414
- d762d3ca22
-SHA-256-Digest: gRwJaGN0RAirgWUgp51xdWP1egBVmool2gkoEuawdYg=
-
-Name: assets/zip_18312274/.git/objects/c7/f70292d7b7673910a84d042c1b55
- 55dc826715
-SHA-256-Digest: 4nIcrL1lSWM8gO/gp+G9Xx1b1nUBOl3IyN2e9XQWZSw=
-
-Name: assets/zip_18312274/.git/objects/c8/4afa43c6ff447231df79c21ad80a
- 99191446a0
-SHA-256-Digest: jQMS2ExLd/5W3E4L1KzqbsMQ9K9/+Wntkxy50E1ERKs=
-
-Name: assets/zip_18312274/.git/objects/cc/0a25561dfb616832227c9e2b2c1b
- 1bbe69bc05
-SHA-256-Digest: 4auML8sXvcvBgxK8MQjJYFMdfgulS5MWURtH41oSjjI=
-
-Name: assets/zip_18312274/.git/objects/d1/55068cd9497bb7d125cc45c9fa36
- 9d40630022
-SHA-256-Digest: GcFb6Zkh+RproC2txlVJiT5UYFxV7fFbeYaTMLdM/bg=
-
-Name: assets/zip_18312274/.git/objects/d1/5b3441ade21366baaea5a741be9b
- 2c9f9a0359
-SHA-256-Digest: IWfjsqBck+kCDEg67l5xBvRVYozA2GDDijedh4CrI7U=
-
-Name: assets/zip_18312274/.git/objects/d4/47c3a4484bada18769cd398cdee9
- b44ae078b7
-SHA-256-Digest: rNZqR/5aCMiQhyvif4I1rDx8k/B5vZVRfen8cxtZbxQ=
-
-Name: assets/zip_18312274/.git/objects/d8/85231452a9ff56c7274ef6eba048
- 5e5d9667cc
-SHA-256-Digest: nAW/YPco1IrY6CPRnfGnqUx8YRqrYwryyA2m/72RPa0=
-
-Name: assets/zip_18312274/.git/objects/d8/cd748f7cce0219152c1e15c8cba1
- d4a9cc293c
-SHA-256-Digest: +jVR3smjdSL/52BxidQcIR7fxf0HWYbrG1bjwWomtBM=
-
-Name: assets/zip_18312274/.git/objects/d9/b546b30dd95c2a6ff3ffad0602a0
- fbc01415f4
-SHA-256-Digest: eVGWa7WQs3NjL/zbPOmuhryOLA/NUuhcof0nL9Dk5vw=
-
-Name: assets/zip_18312274/.git/objects/de/69d2d7e55d4ac6648073067bfb31
- a684b958e8
-SHA-256-Digest: SH31kOfQgfpjlYICG3SXGpfW1y0Bt3jO6Q/mPMpwKU4=
-
-Name: assets/zip_18312274/.git/objects/e2/06954281e3badab2db04fe7633bd
- d638725120
-SHA-256-Digest: 9GpMj8gopFVM9Zc5DyXJdc4SFV5wvYK8sNt/dcqSxck=
-
-Name: assets/zip_18312274/.git/objects/e3/24afa33650d896245f18b3cbdc23
- 8d0187f6d8
-SHA-256-Digest: 1BcTwbfy0k3wthGNU0SNea6/08Gd2We8CfIV/Pm2nCM=
-
-Name: assets/zip_18312274/.git/objects/e5/99c720ebb4c18ef2c52cd596375a
- 6596b36bc2
-SHA-256-Digest: H12QMDcU+DHGwhyi7pjtHNd18J4yk+J9pJmLN4dIN2k=
-
-Name: assets/zip_18312274/.git/objects/e5/d26a25ce0c880cd112f39aa83801
- 77e07248ce
-SHA-256-Digest: sH2fUUVzdsiCA+TnpgsiloIXWLiHy7f76LTTEZY33cM=
-
-Name: assets/zip_18312274/.git/objects/e6/cb5e83e40a953123a3b189436907
- 0b2d11083b
-SHA-256-Digest: yDdXxfIjqNW9vaKsyg40RgXGTZsKNhi6gYIRRC3Ovc4=
-
-Name: assets/zip_18312274/.git/objects/e6/fe1f604d2459d416a5c61bbf6a6b
- 3b1479074d
-SHA-256-Digest: zGjxYX86AA9FsdVx3EhjK2MPzubp7GVO0Ctjv3em5jA=
-
-Name: assets/zip_18312274/.git/objects/e8/00ee796e44feff04c468b4fe55f1
- 58a596df70
-SHA-256-Digest: 1Zf9DiAOFo95SAJiFofVAKZtPnYamy/ivdP0d8xUY+4=
-
-Name: assets/zip_18312274/.git/objects/ec/c6a76c0848412c850d6fb2602c23
- 4400837f79
-SHA-256-Digest: MHsjE1P/jKcprBoV1OIiyYBd5yIy56XR+ZVZ514lRa4=
-
-Name: assets/zip_18312274/.git/objects/ef/9fcae07dc4367d446b996eccaab3
- 3f5545bfa0
-SHA-256-Digest: yweLEHkthT87TdRG/0We6ZzezVouVMppeuvZATJnjgQ=
-
-Name: assets/zip_18312274/.git/objects/ef/ed2d3d55090a629e9b612e2c30f5
- f596ae8b59
-SHA-256-Digest: IY5C4wYGCuxeFqPAYlYhVl/zDX9exGEvtY+S8S+IsOg=
-
-Name: assets/zip_18312274/.git/objects/f0/2dae213fd5425d547a6f8716d781
- c81d04efb3
-SHA-256-Digest: hAssSMTdIuVL9OLam0cEZkcsx5npyEulXIAV9shBNwA=
-
-Name: assets/zip_18312274/.git/objects/f1/6c5be871a8daec535dbcdcf9db84
- b6c4d9df7e
-SHA-256-Digest: jeKP+sbgGVC1bnTw4ImqrJYfp+ljZNyWILT1M+kD1Is=
-
-Name: assets/zip_18312274/.git/objects/f1/f9c8fac448d5bb8824c526ad28be
- d4cccbfe55
-SHA-256-Digest: 8sDTh9AFH2OjukHy9DRPdwxaBwPga9iXMicYq0ZsNzw=
-
-Name: assets/zip_18312274/.git/objects/f7/6c455e883eb88ad65ae0ca3094ea
- d27ecf985f
-SHA-256-Digest: Y+82RLS/04e5vkaRnfyFKBk6VQdmEqK0qgsG37oIHyQ=
-
-Name: assets/zip_18312274/.git/objects/fb/90919e17e979d639ab296289ca4c
- 5a2d753c03
-SHA-256-Digest: ZuqlJ2U6qlz87k5RA+dJCFNB7vhP1mEEKBsSmacjSx0=
-
-Name: assets/zip_18312274/.git/objects/fb/f1d00062a84061436203eca8b925
- 6fbc081876
-SHA-256-Digest: 7Z/PlEZYYRRZOzZDxGkqasqUu6CukzdYcp3OljeI0uk=
-
-Name: assets/zip_18312274/.git/objects/fd/a10f7da603c9ed3b28a59cff04a4
- ced1652ba1
-SHA-256-Digest: VTrh5/XUugRffPkTwdOZiZv/FchawWXBVQZSUN+VTS8=
-
-Name: assets/zip_18312274/.git/objects/fd/e00718fcfb288631534d682fbe15
- 6d8e31b130
-SHA-256-Digest: e4dGQJLGQFJfynm3bBHSb9oSHkPsQXykCRbmwbTOGeo=
-
-Name: assets/zip_18312274/.git/objects/pack/pack-66da7927b7ee60db39180
- af712ba4d3702a02ea5.idx
-SHA-256-Digest: ycyfDAR3zDx2+j3Ppu7LwDhQj2Ta1Y4jPZBzqsvpTzk=
-
-Name: assets/zip_18312274/.git/objects/pack/pack-66da7927b7ee60db39180
- af712ba4d3702a02ea5.pack
-SHA-256-Digest: bTQJtB6QpVx3kkLnoMW/5EsS1JFskQNpvrZoIEFY/pQ=
-
-Name: assets/zip_18312274/.git/packed-refs
-SHA-256-Digest: T2XXookUngP/6OxWCDZ28rQFCF7cpK8CGOn2T9wwDPU=
-
-Name: assets/zip_18312274/.git/refs/heads/main
-SHA-256-Digest: i0iDslpZALFjGm9qMuEn5cYB+KqrQ4MKTMQ3ArayCxQ=
-
-Name: assets/zip_18312274/.git/refs/remotes/origin/HEAD
-SHA-256-Digest: K7aiSqD8bEhBAPXVGim7rYQc0sdV9dk/qiBOXbtOsrQ=
-
-Name: assets/zip_18312274/.git/refs/remotes/origin/main
-SHA-256-Digest: Efbr7Xu9ahE/jv5ApfE4KD5MEi6Vj5PK/hMMgR9z/+Q=
-
-Name: assets/zip_18312274/README.md
-SHA-256-Digest: UYgjhgca3cpYu0cHzezh6F+YMKlPfeYzozvuB6qDAg4=
-
-Name: assets/zip_18312274/about.html
+Name: assets/zip_18319341/about.html
 SHA-256-Digest: jzmjfDsAhhWgTtljYW4Ubof8cfu4vqDoOkleKJVlij8=
 
-Name: assets/zip_18312274/assets/css/style.css
-SHA-256-Digest: LyRzflmXmKrx2oYiTCuOQcbJGjVD0BKlM5047/8CzHo=
+Name: assets/zip_18319341/assets/css/style.css
+SHA-256-Digest: jLAXtUfto1P7O9o2t8qhVUhzRFey4GKZqX3NX4UP1Qo=
 
-Name: assets/zip_18312274/assets/img/Student.png
+Name: assets/zip_18319341/assets/img/Student.png
 SHA-256-Digest: MPlFS2OO7xYuTilt+XbYjEKuaf5cs+ZNmK4faN3JaeA=
 
-Name: assets/zip_18312274/assets/img/apple-touch-icon.png
+Name: assets/zip_18319341/assets/img/apple-touch-icon.png
 SHA-256-Digest: YDyLrqDaqDUmRrWwSFgegFuwy/KtRD4fNEMcjz5JUcM=
 
-Name: assets/zip_18312274/assets/img/danesh.jpg
+Name: assets/zip_18319341/assets/img/danesh.jpg
 SHA-256-Digest: OT+YZnNIjhVORIiP8tJKCU4HeKke+qdgyrbvTzv3aM8=
 
-Name: assets/zip_18312274/assets/img/favicon.png
+Name: assets/zip_18319341/assets/img/favicon.png
 SHA-256-Digest: Owb1Fx9X3vxSBoBV+6BhRf3c+xKAxWqFjAZMzfJORKk=
 
-Name: assets/zip_18312274/assets/img/footer-bg.jpg
+Name: assets/zip_18319341/assets/img/footer-bg.jpg
 SHA-256-Digest: 1W5l+u8SicwZTW6RGXi5dk6Gum7pwvOaESqa7JiQZJ4=
 
-Name: assets/zip_18312274/assets/img/hero-bg.png
+Name: assets/zip_18319341/assets/img/hero-bg.png
 SHA-256-Digest: yY6O4nTcaafTdqQZ6JFhRr+G7vqaUQSs6hqt+cK7jVM=
 
-Name: assets/zip_18312274/assets/img/hero-logo.png
+Name: assets/zip_18319341/assets/img/hero-logo.png
 SHA-256-Digest: W+JCgIQ4y6u6tVQHaT3/50cJMH2Qy4YAdKjBIHG6VxU=
 
-Name: assets/zip_18312274/assets/img/logo.png
+Name: assets/zip_18319341/assets/img/logo.png
 SHA-256-Digest: W+JCgIQ4y6u6tVQHaT3/50cJMH2Qy4YAdKjBIHG6VxU=
 
-Name: assets/zip_18312274/assets/img/portfolio/portfolio-1.jpg
+Name: assets/zip_18319341/assets/img/portfolio/portfolio-1.jpg
 SHA-256-Digest: p7loxOGktpIG+B2zKx2w23+FomW6d/SQa7qQv+3aiIQ=
 
-Name: assets/zip_18312274/assets/img/portfolio/portfolio-2.jpg
+Name: assets/zip_18319341/assets/img/portfolio/portfolio-2.jpg
 SHA-256-Digest: gS5UfvWf1ToPmBI2TYvdJO+VVGxp5L867KaK46Qxr80=
 
-Name: assets/zip_18312274/assets/img/portfolio/portfolio-3.jpg
+Name: assets/zip_18319341/assets/img/portfolio/portfolio-3.jpg
 SHA-256-Digest: MjgakT1UZY/SPvmamsJoFGDhBMM8kkBSKhiPWhTEawo=
 
-Name: assets/zip_18312274/assets/img/portfolio/portfolio-5.jpg
+Name: assets/zip_18319341/assets/img/portfolio/portfolio-5.jpg
 SHA-256-Digest: IqrwJphhfSRhtS99bE8/Fv/6CoIVbRuZnXbb+SLaqu4=
 
-Name: assets/zip_18312274/assets/img/portfolio/portfolio-6.jpg
+Name: assets/zip_18319341/assets/img/portfolio/portfolio-6.jpg
 SHA-256-Digest: eOTIFs0XIsy7myZSgioUsXy2tyg2vo2+O57JREKkubE=
 
-Name: assets/zip_18312274/assets/img/portfolio/portfolio-7.jpg
+Name: assets/zip_18319341/assets/img/portfolio/portfolio-7.jpg
 SHA-256-Digest: zZNENZAcZm6Cxg9cWyks45WhE2RxDg4T28g7d2t9Wcw=
 
-Name: assets/zip_18312274/assets/img/portfolio/portfolio-9.jpg
+Name: assets/zip_18319341/assets/img/portfolio/portfolio-9.jpg
 SHA-256-Digest: CHre3YskS7PRvoyXY7Q9DPbd9L9DcALiC8ij4SYR7gA=
 
-Name: assets/zip_18312274/assets/img/team/annur.jpg
+Name: assets/zip_18319341/assets/img/team/annur.jpg
 SHA-256-Digest: 8hMYkT2xAsnSal1vGgdSEOZ+O/EX0S4+etTKpUBIj54=
 
-Name: assets/zip_18312274/assets/js/main.js
+Name: assets/zip_18319341/assets/js/main.js
 SHA-256-Digest: /DFjY6CV4gBoQng7E6Ux5bMjSUqqcdejPOHCpT9w5fc=
 
-Name: assets/zip_18312274/assets/vendor/aos/aos.css
+Name: assets/zip_18319341/assets/vendor/aos/aos.css
 SHA-256-Digest: GqiEX9BuR1rv5zPU5Vs2qS/NSHl1BJyBcjQYJ6ycwD4=
 
-Name: assets/zip_18312274/assets/vendor/aos/aos.js
+Name: assets/zip_18319341/assets/vendor/aos/aos.js
 SHA-256-Digest: pQBbLkFHcP1cy0C8IhoSdxlm0CtcH5yJ2ki9jjgR03c=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap-icons/bootstrap-icon
+Name: assets/zip_18319341/assets/vendor/bootstrap-icons/bootstrap-icon
  s.css
-SHA-256-Digest: vjH7VdGY8KK8lp5whX56uTiObc5vJsK+qFps2Cfq5mY=
+SHA-256-Digest: U7pMjTH06IczeXGL93V9l1uUv5NGVCWzRLDqUs+EU6Y=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap-icons/bootstrap-icon
+Name: assets/zip_18319341/assets/vendor/bootstrap-icons/bootstrap-icon
  s.json
-SHA-256-Digest: ab101VPT7V9OOrZjcJPuFTjqRcsfGiT0CQ6HYosMWvI=
+SHA-256-Digest: o4bM0z5lGbdwkOq2LdeVZa73yFvwNMdZ8RTHvxUtaig=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap-icons/fonts/bootstra
+Name: assets/zip_18319341/assets/vendor/bootstrap-icons/fonts/bootstra
  p-icons.woff
 SHA-256-Digest: +6mTGhQUa4lX42G1MrJwUCNXWWNIJbZ9Binwh8xdzgg=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap-icons/fonts/bootstra
+Name: assets/zip_18319341/assets/vendor/bootstrap-icons/fonts/bootstra
  p-icons.woff2
 SHA-256-Digest: bjC+lciOOs8SH2iicfVLE68hzSbjEf4332lIdO39SMc=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap-icons/index.html
-SHA-256-Digest: RG+NLQBhScYffn/az2GhziHsy14e4axB8/haRDjbJ2s=
+Name: assets/zip_18319341/assets/vendor/bootstrap-icons/index.html
+SHA-256-Digest: cn5BEJM0lhMnHhw/NVqHTPeYvG+SPN3vwkVKxktWx4c=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap-grid.c
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap-grid.c
  ss
-SHA-256-Digest: tx53gXjwM1Jwr4HKujuQe2SOsUf/B9zcndHucxEfxtU=
+SHA-256-Digest: uzrMf5qyxxxAhxpi5zUUb3L9zI0gl+Ikv3S3yrs6mfE=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap-grid.c
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap-grid.c
  ss.map
 SHA-256-Digest: DTq6h1lifk7ccy1VkMhEEsKObgjCpCoeVewwh3FhtDM=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap-grid.m
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap-grid.m
  in.css
-SHA-256-Digest: mr0/WnlzJR1rF8zNFmUoWfcioUXz50JypdMZI8GPIsc=
+SHA-256-Digest: IuKTFmAXYYsUNCvWQGd/iCdBVKD+2Dk8sFahYFY0jeQ=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap-grid.m
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap-grid.m
  in.css.map
 SHA-256-Digest: F14JGgKhzFa8d4gwPDHBvJCKjqKOTsgisajLDfCW+SY=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap-grid.r
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap-grid.r
  tl.css
-SHA-256-Digest: jU0ZL54qKP/JDDxvk9Q5gLS9P0l312zrE3dtN4lWoPc=
+SHA-256-Digest: TZuyFYAnoISRb+dORbckFn8/GV8vFpyrCNKgL7KLNW0=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap-grid.r
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap-grid.r
  tl.css.map
 SHA-256-Digest: 4QqboB+1tyT7PdZrMtLLfCSGvdsbVYKPxG7/s1Czxf4=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap-grid.r
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap-grid.r
  tl.min.css
-SHA-256-Digest: 5wF2CQwPEjM/1ur/Rw6OgBah9VuTm06fSG6yaEMW84M=
+SHA-256-Digest: MgVOy7kDM307Z0U84i0S+Lao1ey3jVmh/W4fUiOfWCU=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap-grid.r
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap-grid.r
  tl.min.css.map
 SHA-256-Digest: WSps+c1nb7z1sR1mrRvztWBCHmLWpQ1tSVhOV3SgF1U=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap-reboot
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap-reboot
  .css
-SHA-256-Digest: Ep4sk+mS5gaTv/jluOVCLoW0K0L67Y2llRahAlhxmnQ=
+SHA-256-Digest: 0Y7Vdehrj088etTXMpePz56z6GqSS9hX1LhwT+QugeE=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap-reboot
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap-reboot
  .css.map
 SHA-256-Digest: I2p2I/7h6J5EyplOu5Fw7pngeict0wBYXvRKXvrxL5Q=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap-reboot
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap-reboot
  .min.css
-SHA-256-Digest: ppZyQtAjuonHV1Z+DwQnDTk4/GUpdegGm1Jz7qYuM5c=
+SHA-256-Digest: N2X16tC2EGidESjGUO1g6mt5Mo08Ubxcs95RL0FTwWE=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap-reboot
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap-reboot
  .min.css.map
 SHA-256-Digest: HPmGJorOOfpEPJXGetv8fUznXNzQjp/Q/SLhrEguR2Q=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap-reboot
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap-reboot
  .rtl.css
-SHA-256-Digest: 01PUAeh1/BwvnUaNTHKQww9neIW3OoLLDWZ5u7O+8+g=
+SHA-256-Digest: OLAzXA+eCxQfPlhY3HjRdl4h80lCqYl4+ghYzqAsJVs=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap-reboot
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap-reboot
  .rtl.css.map
 SHA-256-Digest: s/FD0h08eGG5qDQnWRrAu01SOs1PhxF4/0Hdpolcpo4=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap-reboot
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap-reboot
  .rtl.min.css
-SHA-256-Digest: McXibGhGGOSG43xe55hvMZiXYk9/mXAE8zg1b1K9umc=
+SHA-256-Digest: aJl1/qCBgTgYAWoV/GAr4xe7gcZ7T+zUaXwRPqR1SWg=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap-reboot
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap-reboot
  .rtl.min.css.map
 SHA-256-Digest: /k8nUCjO7j1/XTDy7DJ5znS25ErDnUW4Vr+LRD5y1mw=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap-utilit
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap-utilit
  ies.css
-SHA-256-Digest: XOqINSqaPtZ0briwuwEXYMdhRwOa+pr/IjGyh0GkoxM=
+SHA-256-Digest: hoPo7/xkUFQKbkp38UNdJpRk1HwKp8NDDBdLy2sqnSU=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap-utilit
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap-utilit
  ies.css.map
 SHA-256-Digest: m7F+YcIqL+aG4CMFkk/rq8zMCuMmBKWfeZAZTuz/kvQ=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap-utilit
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap-utilit
  ies.min.css
-SHA-256-Digest: SYZ4TAMHw3/Lv45coEH6k+nJj3Z/cDrNxDLT/srSQ/g=
+SHA-256-Digest: ehvfks02QkFdE8OfMJ7eg1s7/qb57y5enFT+7Sa5mQc=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap-utilit
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap-utilit
  ies.min.css.map
 SHA-256-Digest: qgQTCmKvQeJKQ9Kl1QgFh/JE5WgyI2knX/eclbnXux0=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap-utilit
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap-utilit
  ies.rtl.css
-SHA-256-Digest: V9AtAHkVLzGD/QsOWAFfq7qb4oSs3QOU8XXuLC5PhKg=
+SHA-256-Digest: aHoHNIKmKRSX42YRde9JpYTTNJiTcxtM2n8VsxJ4yrA=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap-utilit
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap-utilit
  ies.rtl.css.map
 SHA-256-Digest: w+ucHiBmG3Iy1qQAnGZ8Z3kdAcHTy+fKjLx9UN+iTtg=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap-utilit
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap-utilit
  ies.rtl.min.css
-SHA-256-Digest: K4JWEsNUdUQ9G1F0lrhljsTQEX9DsYfd5YeM+GNvRRc=
+SHA-256-Digest: FWhog3JfhBqy/cdvB9aqoIMQOlTl9eDQRbKh5XqMM9E=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap-utilit
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap-utilit
  ies.rtl.min.css.map
 SHA-256-Digest: N7UyPr8E58gbvTgP95n9D9RSu9AvFG5ZwfXthc69tco=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap.css
-SHA-256-Digest: o+AsfCHj7A1M5Xgm1kJmZiGEIvMQEzQqrXz2072Gkkg=
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap.css
+SHA-256-Digest: 6+V41dbckcVzDpvs9o7Ao2XI/R3jrp2QIFkR0Zz99rc=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap.css.ma
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap.css.ma
  p
 SHA-256-Digest: jDVjZCnVbus7ED/KnzQIfSsbph46hDd3WgjBbdoCBYw=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap.min.cs
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap.min.cs
  s
-SHA-256-Digest: YvdLHPgkqJ8DVUxjjnGVlMMJtNimJ6dYkowFFvp4kKs=
+SHA-256-Digest: 6iAyWcn3SwMvqDPqKErE2oybgWngxxsUoWwGBav0Okg=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap.min.cs
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap.min.cs
  s.map
 SHA-256-Digest: qu8++RAhMeGH2AdRCAuY9FQE3FbGfK80xlkr86qIXBM=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap.rtl.cs
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap.rtl.cs
  s
-SHA-256-Digest: gVM4y/laT9UDch6adtLoMlOP2laDLEnafFVuHCMl3D4=
+SHA-256-Digest: C3eqPV6H1fwgWSJLOBW8FEgmBsAqNKQrC3SZJX3t9IU=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap.rtl.cs
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap.rtl.cs
  s.map
 SHA-256-Digest: MFtS/Zh6sMN1brR3LGQdKDGcoG9Ys5HPaNr/C/LE8zk=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap.rtl.mi
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap.rtl.mi
  n.css
-SHA-256-Digest: XKeS3nJdgYEmfk2MkRVEWDzOfEVyGqcjkFErLxAiEbA=
+SHA-256-Digest: tDxIE206umV5F4SepfuioGPMUCJg6S77DpzL2IMb8tU=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/css/bootstrap.rtl.mi
+Name: assets/zip_18319341/assets/vendor/bootstrap/css/bootstrap.rtl.mi
  n.css.map
 SHA-256-Digest: g6Fhaptg432fjHlFZUaMp2XG7MTMiEMfsr2RqwCxRW4=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/js/bootstrap.bundle.
+Name: assets/zip_18319341/assets/vendor/bootstrap/js/bootstrap.bundle.
  js
-SHA-256-Digest: htsAUOIgN8xkootpQUzmvaCbQo6x2PNMTD7kLWI6yYQ=
+SHA-256-Digest: qZXstfj2iyF6yHSJhJTZW0VE+y4r3KysNC76+RZNtkg=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/js/bootstrap.bundle.
+Name: assets/zip_18319341/assets/vendor/bootstrap/js/bootstrap.bundle.
  js.map
 SHA-256-Digest: lsPm5DcIqnFEDqtHFZylPy+oeD4Vj0dUR0HDqtlf8g0=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/js/bootstrap.bundle.
+Name: assets/zip_18319341/assets/vendor/bootstrap/js/bootstrap.bundle.
  min.js
-SHA-256-Digest: 9SEPo+fwJFpMUet/KACSwO+Z/dKMReF9q4zFhU/fT9M=
+SHA-256-Digest: I36DFhv+CYy+/bPtLsadSn8s4Xok98qhTZ8K5dwKgpE=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/js/bootstrap.bundle.
+Name: assets/zip_18319341/assets/vendor/bootstrap/js/bootstrap.bundle.
  min.js.map
 SHA-256-Digest: 4AIg+DUvLEhrD449VhB+bInGg13QNQ0l81ZViETpaPY=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/js/bootstrap.esm.js
-SHA-256-Digest: EfWjlQ9bVZaR3viag3NR65rpZQ6g8AsAmyXEAg3F8qg=
+Name: assets/zip_18319341/assets/vendor/bootstrap/js/bootstrap.esm.js
+SHA-256-Digest: hJUxmHN8xg0wwcWdcjyoIn8Q/gKGzoWcUYkaPpnd0u8=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/js/bootstrap.esm.js.
+Name: assets/zip_18319341/assets/vendor/bootstrap/js/bootstrap.esm.js.
  map
 SHA-256-Digest: KfTucCvmP9o6hdwwk756jxjs81QMGxpUBfalGPFdo8I=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/js/bootstrap.esm.min
+Name: assets/zip_18319341/assets/vendor/bootstrap/js/bootstrap.esm.min
  .js
-SHA-256-Digest: rdKWWewlMLFe17ezfQQc+24V8OjK+dS0+MNwDJOW6WY=
+SHA-256-Digest: 80HMv31z3SPDf4rtJ8qs5TxK/Sl0Xrr/ftFm/Wua+Hk=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/js/bootstrap.esm.min
+Name: assets/zip_18319341/assets/vendor/bootstrap/js/bootstrap.esm.min
  .js.map
 SHA-256-Digest: LP/ijIvhjfNzLmOqsxN9DWc5mwnmRLrn64nl87/OnHA=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/js/bootstrap.js
-SHA-256-Digest: EOQQAD7Fyueb25xfLqClMgQm9UNNO9JeZu4IyyDJi/U=
+Name: assets/zip_18319341/assets/vendor/bootstrap/js/bootstrap.js
+SHA-256-Digest: nwxxzLSnsBkYFWwUCf6se0qaJ5mfQ9kUs95E8e0bgsk=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/js/bootstrap.js.map
+Name: assets/zip_18319341/assets/vendor/bootstrap/js/bootstrap.js.map
 SHA-256-Digest: bOS2SHM6Wn0AhuhSCscSoz6gkq/c3FARPCMzFIGhteM=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/js/bootstrap.min.js
-SHA-256-Digest: cMPWkL3FzjuaFSfEYESYmjF25hCIL6mfRSPnW8OVvM4=
+Name: assets/zip_18319341/assets/vendor/bootstrap/js/bootstrap.min.js
+SHA-256-Digest: SUzPu+ewjZCj6CtwVs9sNh6Q/LMFi1w1RZ9TxpKmVkE=
 
-Name: assets/zip_18312274/assets/vendor/bootstrap/js/bootstrap.min.js.
+Name: assets/zip_18319341/assets/vendor/bootstrap/js/bootstrap.min.js.
  map
 SHA-256-Digest: 5W4zwVeLlKIFEV8CDHA3xNLHYnLFFWuGclmeKWX8pzU=
 
-Name: assets/zip_18312274/assets/vendor/boxicons/css/animations.css
+Name: assets/zip_18319341/assets/vendor/boxicons/css/animations.css
 SHA-256-Digest: GRzcp/rad047fe8kPCI5B/+ooa/UxF09uFrI0ky2Oys=
 
-Name: assets/zip_18312274/assets/vendor/boxicons/css/boxicons.css
-SHA-256-Digest: 46+ENgryYptaOMkPX+Y6mBHOP/3pgwv97sFdE0U0HDU=
+Name: assets/zip_18319341/assets/vendor/boxicons/css/boxicons.css
+SHA-256-Digest: veFLIAuM0ZGm90eXc17KEAoSG1MqgaYgNdrCYf7Fdxk=
 
-Name: assets/zip_18312274/assets/vendor/boxicons/css/boxicons.min.css
+Name: assets/zip_18319341/assets/vendor/boxicons/css/boxicons.min.css
 SHA-256-Digest: T8ibDDdrs3+QT0pj7zjie6k5sbLabfd9En1TO7nRZ/c=
 
-Name: assets/zip_18312274/assets/vendor/boxicons/css/transformations.c
+Name: assets/zip_18319341/assets/vendor/boxicons/css/transformations.c
  ss
 SHA-256-Digest: FvZSJ1aRVujJTiMD+0MVXwJNPDiJCEemZ4FfHrddeJA=
 
-Name: assets/zip_18312274/assets/vendor/boxicons/fonts/boxicons.eot
+Name: assets/zip_18319341/assets/vendor/boxicons/fonts/boxicons.eot
 SHA-256-Digest: Bx0iFactVs1XqMnGSXNgQHykpAgae6y4BaEOGtip7PU=
 
-Name: assets/zip_18312274/assets/vendor/boxicons/fonts/boxicons.svg
-SHA-256-Digest: C5m4IVbKwczp8RW5VzxBKpiDmU42N2OIfSpHgQPJkQ4=
+Name: assets/zip_18319341/assets/vendor/boxicons/fonts/boxicons.svg
+SHA-256-Digest: cN/JU3G6lbF3Pa0305Pzoc58NX3jrK8FuS5PYoA/B0o=
 
-Name: assets/zip_18312274/assets/vendor/boxicons/fonts/boxicons.ttf
+Name: assets/zip_18319341/assets/vendor/boxicons/fonts/boxicons.ttf
 SHA-256-Digest: Lpkz1ATMc/40f+ahhgq7eGVTP83nN2WgwqKSph5k2wo=
 
-Name: assets/zip_18312274/assets/vendor/boxicons/fonts/boxicons.woff
+Name: assets/zip_18319341/assets/vendor/boxicons/fonts/boxicons.woff
 SHA-256-Digest: QUTt2cNsIJkbGnEWpEpwnZlrpeMI1ScfSQeTJdFKv7Q=
 
-Name: assets/zip_18312274/assets/vendor/boxicons/fonts/boxicons.woff2
+Name: assets/zip_18319341/assets/vendor/boxicons/fonts/boxicons.woff2
 SHA-256-Digest: 34RYJip9PU2tKFFlXeKzujtxH1Liv85jzgNIcwu4Gcc=
 
-Name: assets/zip_18312274/assets/vendor/glightbox/css/glightbox.css
-SHA-256-Digest: S2oeNpeBg38DVz7OnTRbUmmNkkGVfqga75dSSfs/uKo=
+Name: assets/zip_18319341/assets/vendor/glightbox/css/glightbox.css
+SHA-256-Digest: 7NpqpWqV0WemKxm0CckRdfavxFd5e8pvJfVJdxZ7rM8=
 
-Name: assets/zip_18312274/assets/vendor/glightbox/css/glightbox.min.cs
+Name: assets/zip_18319341/assets/vendor/glightbox/css/glightbox.min.cs
  s
 SHA-256-Digest: nDALb7/m03Ph9TsvDTPPnfhtkxDMYFMa0jHO6XrKK/A=
 
-Name: assets/zip_18312274/assets/vendor/glightbox/js/glightbox.js
-SHA-256-Digest: D7o3GujfcTKd9qraY4RflyehHAucn9oTCoZLvIFPvlw=
+Name: assets/zip_18319341/assets/vendor/glightbox/js/glightbox.js
+SHA-256-Digest: cEXpbDfhRnU2AzMmhi8hH/+bIyPaaQ/B0qGHsHfPfCA=
 
-Name: assets/zip_18312274/assets/vendor/glightbox/js/glightbox.min.js
+Name: assets/zip_18319341/assets/vendor/glightbox/js/glightbox.min.js
 SHA-256-Digest: Jnq0peqFxgGVDNsptuJ4wCSz4b440ron0sOVI8LjR0E=
 
-Name: assets/zip_18312274/assets/vendor/isotope-layout/isotope.pkgd.js
-SHA-256-Digest: aZcT9p29I4e3w7VyBLzcPYbTrDUHGKetZaUpPg0sU+s=
+Name: assets/zip_18319341/assets/vendor/isotope-layout/isotope.pkgd.js
+SHA-256-Digest: nxrpmKOKzdGnTtKJ2OWC6jYHI0Tswc5QjfIFk2chbFc=
 
-Name: assets/zip_18312274/assets/vendor/isotope-layout/isotope.pkgd.mi
+Name: assets/zip_18319341/assets/vendor/isotope-layout/isotope.pkgd.mi
  n.js
-SHA-256-Digest: CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=
+SHA-256-Digest: qTHlr1YbHw769s25aurEwDXDB1bdbt0QkdoaaHR9Nbw=
 
-Name: assets/zip_18312274/assets/vendor/php-email-form/validate.js
+Name: assets/zip_18319341/assets/vendor/php-email-form/validate.js
 SHA-256-Digest: 6Zzdc9GcCSdTdVBXusnyhUJHbMiSD7OTf4k4SZf885E=
 
-Name: assets/zip_18312274/assets/vendor/swiper/swiper-bundle.min.css
-SHA-256-Digest: bKj92xfZbfgJI7KEx+B4iPlH6z3QOXTNMehfTV6dxtw=
+Name: assets/zip_18319341/assets/vendor/swiper/swiper-bundle.min.css
+SHA-256-Digest: Q7CzZ9s5cxU/iu8yBBxAMB1FHLsOx3OSTRZXmWcn8eQ=
 
-Name: assets/zip_18312274/assets/vendor/swiper/swiper-bundle.min.js
-SHA-256-Digest: FZwk6wudBEwFB+NuaT0P8ju7mQrpBSPMJfNoMlPuQ9Y=
+Name: assets/zip_18319341/assets/vendor/swiper/swiper-bundle.min.js
+SHA-256-Digest: kglYYHdhxuCQuHFiFwQX0XIM1R4l/r1GJp6OSLxLWu4=
 
-Name: assets/zip_18312274/contact.html
-SHA-256-Digest: YHi2wWxm7Mu9rqHB7+IT3YCDH7L8vDYl+bO0EUAIq9s=
+Name: assets/zip_18319341/contact.html
+SHA-256-Digest: xfymHbJ32a/kZyEsHKTXR2qFqShcanCq0LIOL6NwY/c=
 
-Name: assets/zip_18312274/danesh.html
+Name: assets/zip_18319341/danesh.html
 SHA-256-Digest: Pv+LfLuWKlsIcoeBhugQprUVweHjDb2b2RS7oPKDES4=
 
-Name: assets/zip_18312274/faculty.html
-SHA-256-Digest: iYTxeWtyosSr28H5CqRBTeQ7Sh8wVjr5xkrX7a214qg=
+Name: assets/zip_18319341/faculty.html
+SHA-256-Digest: v5QpTyII5NE2MUScYBZcAYdt5LO/NmI6DvrX7EmpuNM=
 
-Name: assets/zip_18312274/forms/contact.php
+Name: assets/zip_18319341/forms/contact.php
 SHA-256-Digest: JrZtVkwdby21vpjNhwojXB+HikqDcqFt3g2Y3ytmp9g=
 
-Name: assets/zip_18312274/gallery.html
+Name: assets/zip_18319341/gallery.html
 SHA-256-Digest: plchg6VXLpCGkOodIzgxMm5IoGJqPuIKPHPLS0dz51U=
 
-Name: assets/zip_18312274/home.html
-SHA-256-Digest: 73h3XukPQCP5aDKsvF1iRyzc/XnQcso99jXoJL9uGOs=
+Name: assets/zip_18319341/home.html
+SHA-256-Digest: gtl1SatFhqKP1PGJwX6cysIRNXQuUFCpbrWNX7V/AhQ=
 
-Name: assets/zip_18312274/index.html
+Name: assets/zip_18319341/index.html
 SHA-256-Digest: nmwxCP50BzVrwkiiqJmdmx/zV5QPNPdmJTzEJwICgS4=
 
-Name: assets/zip_18312274/location.html
+Name: assets/zip_18319341/location.html
 SHA-256-Digest: 9TZAx7Iho1uZWt4Ib5MN1ZAPJXi/YeA0XhrnmGH9EcY=
 
 Name: classes.dex
@@ -4164,7 +3577,7 @@ Name: res/drawable/ic_offline_pin_black_24dp.png
 SHA-256-Digest: G0JMuIbkkdIs4s8I3L9RGpKY8zNjXN6TdA3D4/9i8Dc=
 
 Name: res/drawable/icon.png
-SHA-256-Digest: 0FTwNN4u8eWG6XLvMOO4b39rCi5jDtSKCwY7CE4dwHg=
+SHA-256-Digest: IdUYgB6E7bX2WjRVm00To48fT+fS7wBfoCwR5MuJ13o=
 
 Name: res/drawable/menu_collapse.png
 SHA-256-Digest: Wp+L8RoOzgVGSt0buIyWd6agS4GB1NoMQQd18okxjJo=
@@ -5559,7 +4972,7 @@ Name: res/mipmap/apnxt_adchoices.png
 SHA-256-Digest: g9FkwJiMxyz0XnvZlRGnM33Yhml/IFNhgF3vVxCmQkw=
 
 Name: res/raw/configuration.xml
-SHA-256-Digest: f54Kg2GaOz00PIe42UeWZOXfsnXq6ebywj49ELtHfYY=
+SHA-256-Digest: Z54fKg//KyF0qYoIKuON6dMZrjtSlj9EIwt8+jp2or8=
 
 Name: res/raw/consumer_onesignal_keep.xml
 SHA-256-Digest: 9uxm7gnBAD+8l2DK0jGaME8HHBZ/vQCnYgunJkL7nbA=
@@ -5604,7 +5017,7 @@ Name: res/xml/standalone_badge_gravity_top_start.xml
 SHA-256-Digest: aGw7+hexROPxIqi/WPUmwCoqu2B1kGbTG4dEc69TEA4=
 
 Name: resources.arsc
-SHA-256-Digest: 4mridTxCj+gjay8YWwN8dhh7gGujPXBkHB4VYhR0EnE=
+SHA-256-Digest: m6PonZGmlJNyx+FY0jNG0wi/RDsk23n370m1jHxnlWk=
 
 Name: transport-api.properties
 SHA-256-Digest: ss4lfX935k9fHQauhULfAi5KZ9RNlp3fDBsYro8ALF8=

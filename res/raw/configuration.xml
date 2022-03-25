@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <webWidget>
-	<widgetName>HSTU Gallery_15334821</widgetName>
+	<widgetName>HSTU Gallery_15340455</widgetName>
 	<registeredUrl>
 		<link>http://stat.appioapp.com/statistics.php</link>
 	</registeredUrl>  
-		<id>15334821</id>
+		<id>15340455</id>
 	<usage>
 		<link>http://stat.appioapp.com/statistics.php</link>
 	</usage>
@@ -53,14 +53,14 @@
 		<content>
 						<id>tab0</id>
 						<name>HSTU Gallery</name>
-						<link>file:///android_asset/zip_18312274/index.html</link>
+						<link>file:///android_asset/zip_18319341/index.html</link>
 						<update>0</update>
 						<width>319</width>
 						<height>458</height>
 						<tabName>HSTU Gallery</tabName>
 						<tabIcon></tabIcon>
 						<showAsTab>true</showAsTab>
-						<tabId>18312274</tabId>
+						<tabId>18319341</tabId>
 						<tabType>web</tabType>
 						
 						<loadingCurtain>none</loadingCurtain>
